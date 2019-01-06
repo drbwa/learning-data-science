@@ -1,0 +1,3 @@
+data:
+  - source: https://s3.amazonaws.com/data.openaddresses.io/runs/506567/us/ca/san_francisco.zip
+    destination: "san_francisco/us/ca/san_francisco.csv"
